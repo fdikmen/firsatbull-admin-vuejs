@@ -1,2 +1,3 @@
-# firsatbull-admin-vuejs
-Vue.js ile kodlanmış fırsatbull admin panelidir.
+# Firsatbul
+
+Firsatbul is admin panel app being developed with Vue.js
